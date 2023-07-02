@@ -1,4 +1,4 @@
-👋 Hi, I’m Igor Karayman, I am 28 yaers old / Привет! Меня зовут Игорь Карайман и мне 28.
+👋 Hi, I’m Igor Karayman, I am 29 yaers old / Привет! Меня зовут Игорь Карайман и мне 29.
 
 👀 I’m interested in / Я интересуюсь
                
@@ -12,7 +12,7 @@ I’m currently learning Python (pandas, numpy, matplotlib, seaborn and another)
 
 
 👔 Education / Образование :
-Now I styding at SberSchool - "Reboot prgramm" / Сейчас я прохожу обучение в школе Сбербанка по программе "Переобучение".
+I was trained at the Sberbank school under the "Retraining" program in the direction of Data analysis and Data Science / Я прошел обучение в школе Сбербанка по программе "Переобучение" по направлению Data analysis и Data Science.
 
 🐱‍👤 Usually i have practice on Kaggle (Compititions Contributor). It's a good place to learning. / Обычно я практикусюь на Кагле. Это крутое место для обучения.
 
